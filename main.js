@@ -31,7 +31,6 @@ function createBox() {
       boxGame.push(element)
     }
   }
-  // console.log(boxGame)
   sitiosDisponibles()
 }
 
@@ -85,7 +84,6 @@ function moveSnake() {
   const tail = snake.shift();
   divs[tail].classList.remove('snake');
   const head = snake[snake.length - 1] + moviento
-  // console.log(head)
   if (isCollision(head)) {
     alert('game over');
     scoreLocalStorage = localStorage.getItem('score');
