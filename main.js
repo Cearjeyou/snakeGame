@@ -29,7 +29,6 @@ function createBox() {
       box.appendChild(div);
       element = i*10+j
       boxGame.push(element)
-      // console.log(element)
     }
   }
   // console.log(boxGame)
