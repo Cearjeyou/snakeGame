@@ -1,6 +1,6 @@
 # snakeGame
 
-Snake game with HTML, CSS and JavaScript
+Snake game developed with HTML, CSS and JavaScript
 
 Link for view app: 🔗
 
