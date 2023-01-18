@@ -10,7 +10,7 @@ The body of the HTML contains a main div (id=snake-box) within which each of the
 
 ## CSS
 
-
+General styles are given to the application, such as background color, font, size. Class selectors are used to give styles to the snake and its "food".
 
 
 Link for view app: 🔗
